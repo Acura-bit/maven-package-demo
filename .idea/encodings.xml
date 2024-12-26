@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assembly-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assembly-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-maven-plugin-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-maven-plugin-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jar-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jar-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shade-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shade-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/war-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/war-project/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
